@@ -1,0 +1,43 @@
+/**
+ * Main Stylesheet
+ * Imports all CSS modules in the correct order
+ */
+
+/* 1. Variables and Design Tokens */
+@import url('css/variables.css');
+
+/* 2. Base Styles and Reset */
+@import url('css/base.css');
+
+/* 3. Layout System */
+@import url('css/layout.css');
+
+/* 4. Reusable Components */
+@import url('css/components.css');
+
+/* 5. Navigation Component */
+@import url('css/navigation.css');
+
+/* 6. Page-Specific Styles */
+@import url('css/pages.css');
+
+/* 7. Responsive Utilities */
+@import url('css/responsive.css');
+
+/**
+ * CSS Architecture Overview:
+ * 
+ * - variables.css: Design tokens, CSS custom properties
+ * - base.css: CSS reset, typography, global styles
+ * - layout.css: Container system, grid, flexbox utilities
+ * - components.css: Reusable UI components (buttons, cards, forms)
+ * - navigation.css: Header and navigation specific styles
+ * - pages.css: Page-specific sections (hero, services, footer, etc.)
+ * - responsive.css: Media queries and responsive utilities
+ * 
+ * This modular approach makes it easier to:
+ * - Find and update specific styles
+ * - Add new components without conflicts
+ * - Maintain consistent design patterns
+ * - Debug and optimize performance
+ */
