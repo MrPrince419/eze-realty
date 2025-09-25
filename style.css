@@ -59,7 +59,7 @@
   --color-background: var(--color-white);
   --color-surface: var(--color-gray-50);
   --color-text: var(--color-gray-900);
-  --color-text-secondary: var(--color-gray-600);
+  --color-text-secondary: var(--color-black);
   --color-primary: var(--color-blue-600);
   --color-primary-hover: var(--color-blue-700);
   --color-primary-active: var(--color-blue-700);
@@ -915,7 +915,8 @@ body {
   justify-content: flex-start;
   padding-top: var(--space-32);
   z-index: 999;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  border-top: 2px solid var(--color-gray-200);
 }
 
 .nav__menu--active .nav__link {
@@ -924,6 +925,15 @@ body {
   border-bottom: 1px solid var(--color-gray-200);
   width: 100%;
   text-align: center;
+  color: var(--color-text) !important;
+  font-weight: var(--font-weight-medium);
+  background: var(--color-white);
+  text-decoration: none;
+}
+
+.nav__menu--active .nav__link:hover {
+  background: var(--color-gray-50);
+  color: var(--color-primary) !important;
 }
 
 /* Main content spacing for fixed header */
