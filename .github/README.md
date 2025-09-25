@@ -1,33 +1,27 @@
 # Eze Okwodu Real Estate Website
 
-Professional real estate website for DMV area services.
+## Overview
 
-## Quick Setup
+This is a professional real estate website designed to showcase property services and online presence for **Eze Okwodu Real Estate**. The website features a modern, responsive design with comprehensive service listings, client testimonials, and integrated contact forms to help connect potential clients with real estate services in the DMV area.
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Ready to use!
-
-## Features
-
-- Responsive design
-- Contact forms
-- SEO optimized
-- Professional branding
-- Mobile-first approach
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Lucide Icons
-- Formspree integration
-
-## Developer
-
-Built by [Prince Uwagboe](https://prince-portfolio.site/)
+The site is built with performance and user experience in mind, featuring mobile-first responsive design, SEO optimization, and professional branding that establishes trust and credibility in the competitive real estate market.
 
 ## License
 
-MIT License - See LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+**Did you like this project?** I'd love to hear from you and discuss how I can help bring your vision to life!
+
+### Developer Contact
+- **Developer**: Prince Uwagboe
+- **Email**: princeuwagboe44@outlook.com
+- **Website**: [prince-portfolio.site](https://prince-portfolio.site/)
+- **GitHub**: [@MrPrince419](https://github.com/MrPrince419)
+
+### Business Inquiries
+For **Eze Okwodu Real Estate** related inquiries and services:
+- **Email**: okwodu1@gmail.com
+
+---
