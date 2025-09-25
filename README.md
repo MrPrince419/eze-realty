@@ -66,7 +66,9 @@ The website is fully responsive and optimized for:
 
 ## 🚀 Live Demo
 
-Visit the live website: [Eze Okwodu Real Estate](#)
+Visit the live website: [Eze Okwodu Real Estate](https://eze-okwodu-realty.netlify.app)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status.svg)](https://app.netlify.com/sites/eze-okwodu-realty/deploys)
 
 ## 💼 Business Owner
 
@@ -98,6 +100,8 @@ eze-okwodu-realty/
 
 ## 🚀 Getting Started
 
+### Local Development
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/MrPrince419/eze-realty.git
@@ -113,6 +117,17 @@ eze-okwodu-realty/
    # Using Node.js (if you have live-server installed)
    live-server
    ```
+
+### Netlify Deployment
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/MrPrince419/eze-realty)
+
+1. **Quick Deploy:** Click the button above
+2. **Manual Setup:** Connect your GitHub repo to Netlify
+3. **Build Settings:** No build process required (static site)
+4. **Custom Domain:** Configure in Netlify dashboard
+
+See [Deployment Guide](docs/deployment.md) for detailed instructions.
 
 ## 🔧 Customization
 
